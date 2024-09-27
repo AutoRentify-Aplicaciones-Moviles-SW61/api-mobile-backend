@@ -8,7 +8,7 @@ import upc.edu.pe.api_mobile_backend.rentalservice.domain.services.CardService;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/leadyourway/v1/cards")
+@RequestMapping("/api/v1/cards")
 public class CardController {
 
     @Autowired

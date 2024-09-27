@@ -8,7 +8,7 @@ import upc.edu.pe.api_mobile_backend.rentalservice.domain.services.RentService;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/leadyourway/v1/rents")
+@RequestMapping("/api/v1/rents")
 public class RentController {
 
     @Autowired
