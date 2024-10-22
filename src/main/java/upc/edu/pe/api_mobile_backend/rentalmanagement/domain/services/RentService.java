@@ -1,9 +1,9 @@
-package upc.edu.pe.api_mobile_backend.rentalservice.domain.services;
+package upc.edu.pe.api_mobile_backend.rentalmanagement.domain.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import upc.edu.pe.api_mobile_backend.rentalservice.domain.model.Rent;
-import upc.edu.pe.api_mobile_backend.rentalservice.infrastructure.persistance.jpa.repositories.RentRepository;
+import upc.edu.pe.api_mobile_backend.rentalmanagement.domain.model.Rent;
+import upc.edu.pe.api_mobile_backend.rentalmanagement.infrastructure.persistance.jpa.repositories.RentRepository;
 
 import java.util.List;
 

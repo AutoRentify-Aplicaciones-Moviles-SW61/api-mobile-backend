@@ -1,9 +1,9 @@
-package upc.edu.pe.api_mobile_backend.rentalservice.interfaces.rest;
+package upc.edu.pe.api_mobile_backend.rentalmanagement.interfaces.rest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-import upc.edu.pe.api_mobile_backend.rentalservice.domain.model.Card;
-import upc.edu.pe.api_mobile_backend.rentalservice.domain.services.CardService;
+import upc.edu.pe.api_mobile_backend.rentalmanagement.domain.model.Card;
+import upc.edu.pe.api_mobile_backend.rentalmanagement.domain.services.CardService;
 
 import java.util.List;
 

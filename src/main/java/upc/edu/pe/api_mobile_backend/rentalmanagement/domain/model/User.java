@@ -1,4 +1,4 @@
-package upc.edu.pe.api_mobile_backend.rentalservice.domain.model;
+package upc.edu.pe.api_mobile_backend.rentalmanagement.domain.model;
 
 import jakarta.persistence.*;
 import lombok.Data;

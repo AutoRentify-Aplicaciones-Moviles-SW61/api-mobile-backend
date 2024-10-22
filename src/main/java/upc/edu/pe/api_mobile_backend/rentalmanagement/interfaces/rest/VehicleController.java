@@ -1,10 +1,10 @@
-package upc.edu.pe.api_mobile_backend.rentalservice.interfaces.rest;
+package upc.edu.pe.api_mobile_backend.rentalmanagement.interfaces.rest;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import upc.edu.pe.api_mobile_backend.rentalservice.domain.model.Vehicle;
-import upc.edu.pe.api_mobile_backend.rentalservice.domain.services.VehicleService;
+import upc.edu.pe.api_mobile_backend.rentalmanagement.domain.model.Vehicle;
+import upc.edu.pe.api_mobile_backend.rentalmanagement.domain.services.VehicleService;
 
 import java.util.List;
 import java.util.Optional;

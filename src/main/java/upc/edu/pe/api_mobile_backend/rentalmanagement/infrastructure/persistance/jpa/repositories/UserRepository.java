@@ -1,7 +1,7 @@
-package upc.edu.pe.api_mobile_backend.rentalservice.infrastructure.persistance.jpa.repositories;
+package upc.edu.pe.api_mobile_backend.rentalmanagement.infrastructure.persistance.jpa.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import upc.edu.pe.api_mobile_backend.rentalservice.domain.model.User;
+import upc.edu.pe.api_mobile_backend.rentalmanagement.domain.model.User;
 
 import java.util.Optional;
 
